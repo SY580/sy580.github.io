@@ -1,2 +1,5 @@
-# sy580.github.io
-My Website
+## Sean Ye
+
+Currently: Risk Analyst at Barclays
+
+Research: 
