@@ -2,7 +2,7 @@
 
 Currently: Risk Analyst @ Barclays
 
-Interests: Applied math, data science to large datasets. 
+Interests: Using data science on large datasets. 
 
 Formerly: Math + PoliSci @ Georgetown
 
